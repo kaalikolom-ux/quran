@@ -1,0 +1,62 @@
+[
+  {
+    "id": "expanding-universe",
+    "title_bn": "মহাবিশ্ব সম্প্রসারণ (Expanding Universe)",
+    "title_en": "Expanding Universe",
+    "description_bn": "মহাবিশ্ব যে প্রতিনিয়ত সম্প্রসারিত হচ্ছে সে সম্পর্কে কুরআনের বৈজ্ঞানিক নিদর্শন।",
+    "description_en": "Quranic insights on the continuous expansion of the universe.",
+    "surah": 51,
+    "ayah": 47,
+    "icon": "Orbit"
+  },
+  {
+    "id": "big-bang-origins",
+    "title_bn": "বিগ ব্যাং ও সৃষ্টিতত্ত্ব (Big Bang & Origins)",
+    "title_en": "Big Bang & Cosmic Origins",
+    "description_bn": "আসমান ও জমিনের একত্রিত অবস্থা থেকে বিস্ফোরণ এবং পানি থেকে সমস্ত প্রাণের সৃষ্টি।",
+    "description_en": "The primeval singularity separation and origins of all life from water.",
+    "surah": 21,
+    "ayah": 30,
+    "icon": "Sparkles"
+  },
+  {
+    "id": "embryology",
+    "title_bn": "ভ্রূণতত্ত্ব ও মানব সৃষ্টি (Embryology)",
+    "title_en": "Embryology & Human Genesis",
+    "description_bn": "মায়ের গর্ভে পর্যায়ক্রমে মানব ভ্রূণ বিকাশের নিখুঁত বিবরণ।",
+    "description_en": "Stage-by-stage development of the human embryo in the womb.",
+    "surah": 23,
+    "ayah": 12,
+    "icon": "Dna"
+  },
+  {
+    "id": "mountains-pegs",
+    "title_bn": "পর্বতের ভূমিকা ও ভূতত্ত্ব (Mountains as Pegs)",
+    "title_en": "Mountains as Stabilizing Pegs",
+    "description_bn": "পৃথিবীর ভূত্বককে স্থিতিশীল রাখতে পেরেকের মতো পর্বতের গভীর শিকড় ও ভূমিকা।",
+    "description_en": "Deep isostatic roots of mountains stabilizing the Earth's crust.",
+    "surah": 78,
+    "ayah": 6,
+    "icon": "Mountain"
+  },
+  {
+    "id": "barrier-between-oceans",
+    "title_bn": "সমুদ্রের অদৃশ্য প্রাচীর (Barrier between Oceans)",
+    "title_en": "Barrier Between Oceans",
+    "description_bn": "মিষ্টি ও নোনা পানির এবং দুই সমুদ্রের মিলনস্থলে অদৃশ্য ঘনত্বের প্রাচীর।",
+    "description_en": "Invisible density and salinity bar between meeting waters.",
+    "surah": 55,
+    "ayah": 19,
+    "icon": "Waves"
+  },
+  {
+    "id": "iron-origin",
+    "title_bn": "লোহার উৎপত্তি ও মহাজাগতিক অবতরণ (Iron Origin)",
+    "title_en": "Cosmic Origin of Iron",
+    "description_bn": "লোহা পৃথিবীতে তৈরি হয়নি বরং মহাকাশ থেকে সুপারনোভার মাধ্যমে নাযিল বা প্রেরিত হয়েছে।",
+    "description_en": "Extraterrestrial celestial descent of iron forged in core-collapse supernovae.",
+    "surah": 57,
+    "ayah": 25,
+    "icon": "Layers"
+  }
+]
